@@ -1,0 +1,12 @@
+# Liabrary Management system
+# 1)Login Page
+# 2)Admin Page 
+# 3)User
+# 	availble books 
+# 4)Admin Role
+# 	create user
+# 	add books
+# 	check-in check-out books
+# Frontend : Html, css, Templating Engines Jinja2, Javascript
+# Backend : FastAPI (python)
+# Database : Postgress or Sqlite(Begineer friendly)
